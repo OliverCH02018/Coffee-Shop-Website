@@ -1,0 +1,100 @@
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+header {
+    background-color: lightgoldenrodyellow;
+    color:goldenrod;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 38px;
+}
+
+nav {
+    background-color: #5b713b;
+    display: flex;
+    justify-content: right;   
+}
+
+nav a {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 24pt;
+    text-decoration: none;
+    color: orange;
+    line-height: 2;
+    display: inline-block;
+    padding: 10px;      
+}
+
+section {
+    padding:20px 40px 50px 50px;
+}
+
+#submit {
+    width: 100px;
+    height: 30px;
+    display: block;
+    position: relative;
+    top: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.box {
+    height: 800px;
+    padding: 60px 60px 60px 200px;
+}
+
+table p {
+    font-size: 20px;
+    line-height: 2.5;
+    text-align: center;   
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    text-align: center; 
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    position: relative;
+    display: block;
+}
+
+
+textarea {
+    width: 400px;
+    height: 100px;
+    position:relative;
+    display: block;
+}
+
+footer {
+
+    clear:left;
+    background-color: #424141;
+    color: lightgrey;
+    padding: 15px;
+    text-align: center;
+}
+
+footer a {
+    color:orange;
+}
+
+footer p {
+    font-size: 18px;
+    margin: 0;
+    height: 26px;
+}
